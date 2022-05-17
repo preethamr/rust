@@ -2,6 +2,7 @@
 
 ### Unreleased
 
+- feature: pull config files from github pages instead of local versions
 - fix broken output tests
 - Add Neon testnet to dev and staging configs
 
