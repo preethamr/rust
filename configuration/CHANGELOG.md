@@ -2,6 +2,9 @@
 
 ### Unreleased
 
+- add environment variable overrides for agent configuration
+- add tests for agent environment variable overrides
+
 ### v0.1.0-rc.24
 
 - remove `FromEnv` trait and make env loading conf-struct-specific
